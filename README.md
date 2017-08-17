@@ -1,6 +1,6 @@
 # kaggle_TitanicCompetitionCode
 
-这个是我参加Kaggle中Titanic: Machine Learning from Disaster比赛时，score为0.80861 top 7%(https://www.kaggle.com/psych0)的源代码。
+这个是我参加Kaggle中Titanic: Machine Learning from Disaster比赛时，score为0.80861 top 7% 的源代码(https://www.kaggle.com/psych0) 。
 
 代码未作优化；
 
